@@ -19,4 +19,5 @@ vim.opt.listchars = { space = '·',trail = '·', tab = '⇤–⇥' }
 vim.opt.showbreak = '↪'
 vim.opt.cursorline = true
 vim.opt.clipboard = 'unnamedplus'
+vim.opt.colorcolumn = '80'
 
